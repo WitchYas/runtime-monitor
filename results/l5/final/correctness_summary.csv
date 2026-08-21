@@ -1,0 +1,7 @@
+target,runs,behavioral_successes,behavioral_success_rate,authoritative_passes,authoritative_pass_rate,complete_traces,complete_trace_rate,zero_false_violation_runs,mean_deadlock_latency_ms,median_deadlock_latency_ms,p95_deadlock_latency_ms,max_deadlock_latency_ms
+circular_deadlock,30,30,1.0,30,1.0,0,0.0,0,0.027333733333333332,0.013224,0.12779339999999995,0.137644
+correct_smoke,30,30,1.0,22,0.7333333333333333,22,0.7333333333333333,30,nan,nan,nan,nan
+held_at_exit,30,30,1.0,30,1.0,30,1.0,0,nan,nan,nan,nan
+hold_time,30,30,1.0,30,1.0,30,1.0,0,nan,nan,nan,nan
+non_owner_unlock,30,30,1.0,30,1.0,30,1.0,0,nan,nan,nan,nan
+self_deadlock,30,30,1.0,30,1.0,30,1.0,0,nan,nan,nan,nan
