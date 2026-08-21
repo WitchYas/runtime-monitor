@@ -98,3 +98,4 @@ results/l5/**/metadata.json
 results/**/*.trace
 results/**/*.bin
 results/**/*.raw
+results/l5/quick_validation/
